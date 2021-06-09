@@ -1,0 +1,128 @@
+# Konichiwa, Welcome 👋
+
+<div align="center">
+<img alt="GIF" align="center" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 21 years old Python Developer and graduated form IIT Roorkee from India.
+
+
+<img alt="gojo" align="right" src="assests/tenor.gif">
+
+### - Super Powers :
+- ✨ Python, R, C++, JavaScript
+- ✨ Web Scrapping, Django, Flask
+
+### - Hobbies : 
+- ✨ Watching Anime
+- ✨ Freelancing
+- ✨ Travelling/Photography
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+   <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+     <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/ssvg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+   <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+
+
+
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+
+<p>
+</br>
+<img hight="320" width="450" alt="naruto" align="right" src="assests/naruto.gif">
+
+Reach out to me for anything, be it for a freelancing your Project, want to discuss different Anime or just some chitchat.
+Click any link form Below, lets have a chat 😉.
+
+  <a href="mailto:agajare@ch.iitr.ac.in">
+    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://www.instagram.com/agajareiitr/">
+    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</br>
+</br>
+</br>
+  <a href="https://www.linkedin.com/in/agajareiitr/">
+    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href = "https://agajareiitr.github.io" style = "text-decoration:none">Personal Website</a>
+</p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=agajareiitr&&show_icons=true&theme=radical"/>
+    </a>
+</p>
+
+<!-- <p>Orignal Credit : https://github.com/Xx-Ashutosh-xX</p> -->
+*********
