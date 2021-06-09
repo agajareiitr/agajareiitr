@@ -12,7 +12,7 @@
 ### - I'm 21 years old Python Developer and graduated form IIT Roorkee from India.
 
 
-<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assests/tenor.gif">
+<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
 
 ### - Super Powers :
 - ✨ Python, R, C++, JavaScript
