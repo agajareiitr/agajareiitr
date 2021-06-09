@@ -6,15 +6,13 @@
 
 </br>
 </br>
-</br>
-
 
 # About ME 💬 :
 
 ### - I'm 21 years old Python Developer and graduated form IIT Roorkee from India.
 
 
-<img alt="gojo" align="right" src="assests/tenor.gif">
+<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assests/tenor.gif">
 
 ### - Super Powers :
 - ✨ Python, R, C++, JavaScript
@@ -86,7 +84,7 @@
 
 <p>
 </br>
-<img hight="320" width="450" alt="naruto" align="right" src="assests/naruto.gif">
+<img hight="320" width="450" alt="naruto" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/naruto.gif">
 
 Reach out to me for anything, be it for a freelancing your Project, want to discuss different Anime or just some chitchat.
 Click any link form Below, lets have a chat 😉.
