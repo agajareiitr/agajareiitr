@@ -34,40 +34,40 @@
 
 <p align="center">
    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
      <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/ssvg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>   
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>   
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
   </a>
     <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a>
     <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
@@ -90,17 +90,17 @@ Reach out to me for anything, be it for a freelancing your Project, want to disc
 Click any link form Below, lets have a chat 😉.
 
   <a href="mailto:agajare@ch.iitr.ac.in">
-    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="https://www.instagram.com/agajareiitr/">
-    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 </br>
 </br>
 </br>
   <a href="https://www.linkedin.com/in/agajareiitr/">
-    <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href = "https://agajareiitr.github.io" style = "text-decoration:none">Personal Website</a>
 </p>
