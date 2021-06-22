@@ -1,4 +1,6 @@
-# Konichiwa, Welcome 👋
+![](https://komarev.com/ghpvc/?username=agajareiitr&label=view+count&style=plastic)
+
+# Konichiwa, Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
 <img alt="GIF" align="center" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif">
@@ -9,16 +11,17 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Python Developer and an undergraduate at IIT Roorkee from India.
-
+### - I'm 21 years old Python Developer and undergraduate at IIT Roorkee from India.
 
 <img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
 
 ### - Super Powers :
+
 - ✨ Python, R, C++, JavaScript
 - ✨ Web Scrapping, Django, Flask
 
-### - Hobbies : 
+### - Hobbies :
+
 - ✨ Watching Anime
 - ✨ Freelancing
 - ✨ Travelling/Photography
@@ -27,9 +30,8 @@
 </br>
 </br>
 
-
-
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
@@ -49,7 +51,7 @@
     <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
    <a href="#">
     <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
    <a href="#">
     <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
@@ -71,16 +73,11 @@
   </a> 
 </p>
 
-
-
 </br>
 </br>
 </br>
-
-
 
 # Contact Me :
-
 
 <p>
 </br>
@@ -91,7 +88,7 @@ Click any link form Below, lets have a chat 😉.
 
   <a href="mailto:agajare@ch.iitr.ac.in">
     <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="https://www.instagram.com/agajareiitr/">
     <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
@@ -104,7 +101,6 @@ Click any link form Below, lets have a chat 😉.
   </a>
   <a href = "https://agajareiitr.github.io" style = "text-decoration:none">Personal Website</a>
 </p>
- 
 
 </br>
 </br>
@@ -113,8 +109,6 @@ Click any link form Below, lets have a chat 😉.
 </br>
 </br>
 </br>
-
-
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -123,4 +117,5 @@ Click any link form Below, lets have a chat 😉.
 </p>
 
 <!-- <p>Orignal Credit : https://github.com/Xx-Ashutosh-xX</p> -->
-*********
+
+---
