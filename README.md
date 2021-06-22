@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Python Developer and graduated form IIT Roorkee from India.
+### - I'm 21 years old Python Developer and an undergraduate at IIT Roorkee from India.
 
 
 <img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
