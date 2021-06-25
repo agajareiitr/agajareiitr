@@ -113,7 +113,7 @@ Click any link form Below, lets have a chat 😉.
 
 <p align="center">
   <a href="https://github.com/agajareiitr/github-readme-stats"> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=agajareiitr&&show_icons=true&theme=radical"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=agajareiitr&&show_icons=true&theme=radical&include_all_commits=true"/>
     </a>
 
 
