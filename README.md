@@ -11,20 +11,21 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Python Developer and undergraduate at IIT Roorkee from India.
+### - Data Engineer with 2+ years of experience building scalable data pipelines, ETL processes, and near-real-time
+ingestion workflows. Proficient in technologies like PySpark, SQL, HDFS, Hive and Kafka to develop
+Data Mart and Analytical Layers. Proven ability in performance tuning, data modeling, and cross-functional
+collaboration to deliver efficient data solutions.
 
 <img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
 
 ### - Super Powers :
 
-- ✨ Python, R, C++, JavaScript
-- ✨ Web Scrapping, Django, Flask
-
-### - Hobbies :
-
-- ✨ Watching Anime
-- ✨ Freelancing
-- ✨ Travelling/Photography
+- Programming Languages: Python, SQL
+- Big Data Technologies: Spark, PySpark, Spark SQL, Hadoop, Hive, HDFS
+- Streaming Technology: Kafka, Spark structured streaming
+- Data Engineering Tools: ETL/ELT Pipelines, Data Modeling, Data Warehouse, Data Governance
+- Development Tools: Git, Jupyter Notebook, Jira, BitBucket, CI/CD
+- Soft Skills: Agile Development, Team Management and Mentorship, Cross-Functional Collaboration
 
 </br>
 </br>
