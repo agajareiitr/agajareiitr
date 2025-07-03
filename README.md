@@ -11,10 +11,7 @@
 
 # About ME 💬 :
 
-### - Data Engineer with 2+ years of experience building scalable data pipelines, ETL processes, and near-real-time
-ingestion workflows. Proficient in technologies like PySpark, SQL, HDFS, Hive and Kafka to develop
-Data Mart and Analytical Layers. Proven ability in performance tuning, data modeling, and cross-functional
-collaboration to deliver efficient data solutions.
+### - Data Engineer with 2+ years of experience building scalable data pipelines, ETL processes, and near-real-time ingestion workflows. Proficient in technologies like PySpark, SQL, HDFS, Hive and Kafka to develop Data Mart and Analytical Layers. Proven ability in performance tuning, data modeling, and cross-functional collaboration to deliver efficient data solutions.
 
 <img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
 
